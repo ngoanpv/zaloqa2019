@@ -5,7 +5,7 @@ Given a question, related paragraphs from a Wikipedia article (in the shuffle o
 
 F1 measure based on precision and recall is used to rank competing submissions. 
 
-For detailed, visit: https://challenge.zalo.ai/portal/motorbike-generator
+For detailed, visit: https://challenge.zalo.ai/portal/question-answering
 
 ## About Data?
 
